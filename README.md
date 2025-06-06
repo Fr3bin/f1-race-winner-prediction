@@ -40,7 +40,7 @@ The project aims to accurately predict F1 race winners from historical data. The
 
 ### Dataset
 
-Historical F1 race data from Kaggle, including:
+Historical F1 race data from Kaggle,(https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020) including:
 
 - `races.csv`
 - `results.csv`
